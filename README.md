@@ -55,7 +55,7 @@
   </ul>
 
   <h2>📁 Project Structure</h2>
-  <pre><code>/
+  <pre><code>
 ├── attendance.py                    # attendance main application
 ├── emotion.py                       # emotion detection main application
 ├── face_model.h5           # Trained emotion detection model
