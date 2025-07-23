@@ -1,4 +1,4 @@
-<h1>🧠Real Time Attendance & Emotion Detection System – Technical Details</h1>
+<h1>🧠 Real Time Attendance & Emotion Detection System</h1>
 
 <h2>🗂️ 1. Project Overview</h2>
 <p>This project is a Flask-based web application that provides:</p>
